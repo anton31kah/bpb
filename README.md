@@ -9,3 +9,20 @@ The exe file is a compiled version of the script. I used [auto-py-to-exe](https:
 ## Usage
 
 In a command prompt or a terminal use this
+
+```
+bpb.exe path\to\image
+```
+
+or
+
+```
+bpb.py path\to\image
+```
+
+or if the path to the image has spaces in it, try
+
+```
+bpb.exe "path\to\image"
+bpb.py "path\to\image"
+```
